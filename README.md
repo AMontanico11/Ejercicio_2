@@ -1,2 +1,3 @@
 # Ejercicio_2
-https://github.com/AMontanico11/Ejercicio_2/blob/main/Construccion.html
+
+file:///C:/Users/Fam_PM/Documents/Alexis/Construccion/Construccion.html
